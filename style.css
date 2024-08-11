@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    font-size: 70px;
+}
+p{
+    color: white;
+    background-color: black;
+   
+}
+
+#p1{
+    background-color: green;
+    font-size: 30px;
+    width: 250px;
+}
+.purple{
+    color: purple;
+    background-color: red;
+}
+
+body{
+    background-color: black;
+}
